@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="355a39e1-842d-4ef3-ac91-5ac9b1eb4d03" name="Default Changelist" comment="final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CullNet_Paper$createdataset_singleobj_realtrain.coverage" NAME="createdataset_singleobj_realtrain Coverage Results" MODIFIED="1568989852433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_generate" />
+    <SUITE FILE_PATH="coverage/CullNet_Paper$yaml_to_tables_3derror.coverage" NAME="yaml_to_tables_3derror Coverage Results" MODIFIED="1569491681822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CullNet_Paper$yolo6d_train_variedpoints_v3.coverage" NAME="yolo6d_train_variedpoints_v3 Coverage Results" MODIFIED="1568371511668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1002934698">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="2" />
+          <entry key="md" value="3" />
+          <entry key="out" value="7" />
+          <entry key="py" value="126" />
+          <entry key="sh" value="32" />
+          <entry key="txt" value="7" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="32" />
+          <entry key="Ini" value="2" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="126" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="318" />
+          <entry key="dummy" value="16" />
+          <entry key="md" value="1810" />
+          <entry key="py" value="284" />
+          <entry key="sh" value="433" />
+          <entry key="txt" value="127" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="433" />
+          <entry key="Markdown" value="1810" />
+          <entry key="PLAIN_TEXT" value="143" />
+          <entry key="Python" value="602" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sav</find>
+      <find>class=</find>
+      <find>$class.out</find>
+      <find>vis_</find>
+      <find>args</find>
+      <find>../datasets</find>
+      <find>voc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cls=</replace>
+      <replace>$cls.out</replace>
+      <replace>../data</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/geometric_losses.py" />
+        <option value="$PROJECT_DIR$/utils/load_meshinfo.py" />
+        <option value="$PROJECT_DIR$/utils/pnp_algorithms.py" />
+        <option value="$PROJECT_DIR$/utils/pose_error.py" />
+        <option value="$PROJECT_DIR$/utils/postprocess_fns.py" />
+        <option value="$PROJECT_DIR$/utils/proposals_cullnet.py" />
+        <option value="$PROJECT_DIR$/utils/random_erasing.py" />
+        <option value="$PROJECT_DIR$/utils/visualisation_functions.py" />
+        <option value="$PROJECT_DIR$/yolo6d_segmentation_cullnet.py" />
+        <option value="$PROJECT_DIR$/yolo6d_darknet_variedpoints_v3.py" />
+        <option value="$PROJECT_DIR$/utils/preprocess_fns.py" />
+        <option value="$PROJECT_DIR$/backbone_trainscripts.sh" />
+        <option value="$PROJECT_DIR$/yolo6d_train_variedpoints_v3.py" />
+        <option value="$PROJECT_DIR$/backbone_trainscripts2.sh" />
+        <option value="$PROJECT_DIR$/backbone_second_trainscripts.sh" />
+        <option value="$PROJECT_DIR$/backbone_second_trainscripts2.sh" />
+        <option value="$PROJECT_DIR$/cullnet_trainscripts2.sh" />
+        <option value="$PROJECT_DIR$/yolo6d_train_refineproposals_nearby_v3_faster.py" />
+        <option value="$PROJECT_DIR$/cullnet_trainscripts.sh" />
+        <option value="$PROJECT_DIR$/find_diameters.py" />
+        <option value="$PROJECT_DIR$/yolo6d_cullnet.py" />
+        <option value="$PROJECT_DIR$/datasets/imdb.py" />
+        <option value="$PROJECT_DIR$/yolo6d_test_variedpoints_v3.py" />
+        <option value="$PROJECT_DIR$/datasets/dataset.py" />
+        <option value="$PROJECT_DIR$/backbone_testscript.sh" />
+        <option value="$PROJECT_DIR$/yaml_to_tables_3derror.py" />
+        <option value="$PROJECT_DIR$/cullnet_testscript.sh" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/data_generate/createdataset_singleobj_realsyn.py" />
+        <option value="$PROJECT_DIR$/utils/utils_multiobj.py" />
+        <option value="$PROJECT_DIR$/data_generate/createdataset_singleobj_realtrain.py" />
+        <option value="$PROJECT_DIR$/yolo6d_test_refineproposals_nearby_v3_faster.py" />
+        <option value="$PROJECT_DIR$/datasets/dataset_eval.py" />
+        <option value="$PROJECT_DIR$/mean_acc.py" />
+        <option value="$PROJECT_DIR$/datasets/dataset_cullnet.py" />
+        <option value="$PROJECT_DIR$/data_generate/createdataset_singleobj_occlusiontest.py" />
+        <option value="$PROJECT_DIR$/cfgs/config_yolo6d.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/venv/lib/python2.7/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/package.json" />
+      <path value="$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1115" />
+    <option name="y" value="220" />
+    <option name="width" value="1855" />
+    <option name="height" value="1204" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CullNet-Paper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CullNet-Paper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yolo6d_singleobject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sh_scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data_generate" />
+      <recent name="$PROJECT_DIR$/utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.yaml_to_tables_3derror">
+    <configuration name="createdataset_singleobj_realtrain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CullNet-Paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_generate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_generate/createdataset_singleobj_originalimages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yaml_to_tables_3derror" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CullNet-Paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yaml_to_tables_3derror.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo6d_train_variedpoints_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CullNet-Paper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolo6d_train_variedpoints_v3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.yolo6d_train_variedpoints_v3" />
+      <item itemvalue="Python.yaml_to_tables_3derror" />
+      <item itemvalue="Python.createdataset_singleobj_realtrain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.yaml_to_tables_3derror" />
+        <item itemvalue="Python.createdataset_singleobj_realtrain" />
+        <item itemvalue="Python.yolo6d_train_variedpoints_v3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="355a39e1-842d-4ef3-ac91-5ac9b1eb4d03" name="Default Changelist" comment="" />
+      <created>1568368401861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568368401861</updated>
+    </task>
+    <task id="LOCAL-00001" summary="removed test part in train code">
+      <created>1568601848896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568601848896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added test loader for cullnet train script">
+      <created>1568785343138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568785343138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="almost there">
+      <created>1569583324641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569583324641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final commit">
+      <created>1569825010414</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569825010414</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1114" y="325" width="1857" height="1212" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24709785" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Job Explorer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32992566" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32992566" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.38552916" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2443339" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Job Explorer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32992566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed test part in train code" />
+    <MESSAGE value="added test loader for cullnet train script" />
+    <MESSAGE value="almost there" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utils/rotation_transformations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/model_gpumem_estimate.py" />
+    <entry file="file://$PROJECT_DIR$/demo_yolo6d.py" />
+    <entry file="file://$PROJECT_DIR$/eggbox.out" />
+    <entry file="file://$PROJECT_DIR$/ape.out" />
+    <entry file="file://$PROJECT_DIR$/iron.out" />
+    <entry file="file://$PROJECT_DIR$/sh_scripts/backbone_trainscripts2.sh" />
+    <entry file="file://$PROJECT_DIR$/cam.out" />
+    <entry file="file://$PROJECT_DIR$/can.out" />
+    <entry file="file://$PROJECT_DIR$/sh_scripts/cullnet_trainscripts2.sh" />
+    <entry file="file://$PROJECT_DIR$/sh_scripts/backbone_second_trainscripts2.sh" />
+    <entry file="file://$PROJECT_DIR$/sh_scripts/backbone_second_trainscripts.sh" />
+    <entry file="file://$PROJECT_DIR$/test_scripts/test_cullnet_linemod.sh" />
+    <entry file="file://$PROJECT_DIR$/test_scripts/YCB_yolov3_normal_minerror2d.sh" />
+    <entry file="file://$PROJECT_DIR$/utils/utils_multiobj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_epochs_topkransac.sh" />
+    <entry file="file://$PROJECT_DIR$/3derror_logs/ape_3derror_logs.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16346">
+          <caret line="743" column="11" lean-forward="true" selection-start-line="743" selection-start-column="11" selection-end-line="743" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/testing/LINEMOD_singleobj_realsyn_topk6_nearby1_non_nms.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/testing/LINEMOD_singleobj_realsyn.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sh_scripts/backbone_testscript.sh" />
+    <entry file="file://$PROJECT_DIR$/utils/preprocess_fns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="90" column="50" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sh_scripts/backbone_trainscripts.sh" />
+    <entry file="file://$PROJECT_DIR$/sh_scripts/cullnet_testscript.sh" />
+    <entry file="file://$PROJECT_DIR$/sh_scripts/cullnet_trainscripts.sh" />
+    <entry file="file://$PROJECT_DIR$/data_generate/createdataset_singleobj_originalimages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1584">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfgs/yolov3.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfgs/yolov3_8surf.cfg" />
+    <entry file="file://$PROJECT_DIR$/cfgs/config_yolo6d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="123" column="44" lean-forward="true" selection-start-line="123" selection-start-column="44" selection-end-line="123" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generate/createdataset_singleobj_realsyn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="108" column="19" lean-forward="true" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generate/createdataset_singleobj_occlusiontest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="68" column="57" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset_cullnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4053">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1553">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/collate_fns_self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2389" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/compute_transoformations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/hinter_flip.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_diameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_norm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mean_acc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resnet_concat_gn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4721" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resnet_gn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_to_tables_3derror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo6d_cullnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo6d_test_refineproposals_nearby_v3_faster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="279" column="23" lean-forward="true" selection-start-line="279" selection-start-column="23" selection-end-line="279" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo6d_train_refineproposals_nearby_v3_faster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1975">
+          <caret line="367" column="51" lean-forward="true" selection-start-line="367" selection-start-column="51" selection-end-line="367" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo6d_darknet_variedpoints_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="431" column="52" lean-forward="true" selection-start-line="431" selection-start-column="52" selection-end-line="431" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo6d_test_variedpoints_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="348" column="193" lean-forward="true" selection-start-line="348" selection-start-column="193" selection-end-line="348" selection-end-column="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo6d_train_variedpoints_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

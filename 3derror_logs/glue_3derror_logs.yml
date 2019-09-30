@@ -1,0 +1,736 @@
+0linemod_ori:
+  x: 0.0011
+  y: -0.0026
+  z: 0.0443
+100linemod_ori:
+  x: 0.0037
+  y: 0.0014
+  z: -0.0107
+101linemod_ori:
+  x: -0.0002
+  y: 0.0013
+  z: 0.03
+102linemod_ori:
+  x: -0.0008
+  y: 0.0003
+  z: 0.0225
+103linemod_ori:
+  x: 0.0001
+  y: -0.0007
+  z: 0.0032
+104linemod_ori:
+  x: 0.0
+  y: -0.001
+  z: 0.0068
+105linemod_ori:
+  x: 0.0025
+  y: 0.0011
+  z: 0.0098
+106linemod_ori:
+  x: 0.0008
+  y: 0.0016
+  z: 0.0074
+107linemod_ori:
+  x: 0.0006
+  y: 0.0011
+  z: 0.0155
+108linemod_ori:
+  x: 0.0015
+  y: 0.0019
+  z: 0.0024
+109linemod_ori:
+  x: 0.0014
+  y: 0.0023
+  z: 0.014
+10linemod_ori:
+  x: 0.0026
+  y: -0.0017
+  z: 0.0184
+110linemod_ori:
+  x: 0.001
+  y: 0.0041
+  z: -0.0104
+111linemod_ori:
+  x: -0.0051
+  y: -0.0041
+  z: 0.0465
+112linemod_ori:
+  x: -0.0
+  y: -0.0009
+  z: 0.0205
+113linemod_ori:
+  x: -0.0024
+  y: 0.0004
+  z: 0.0202
+114linemod_ori:
+  x: 0.0019
+  y: -0.0001
+  z: 0.0342
+115linemod_ori:
+  x: -0.0024
+  y: -0.0005
+  z: 0.0244
+116linemod_ori:
+  x: 0.0002
+  y: -0.0006
+  z: 0.01
+117linemod_ori:
+  x: 0.0024
+  y: -0.0022
+  z: 0.0076
+118linemod_ori:
+  x: -0.0041
+  y: -0.0001
+  z: 0.0215
+119linemod_ori:
+  x: 0.0001
+  y: -0.0015
+  z: 0.0208
+11linemod_ori:
+  x: 0.0001
+  y: 0.0004
+  z: 0.0327
+120linemod_ori:
+  x: 0.0021
+  y: -0.0025
+  z: 0.0167
+121linemod_ori:
+  x: -0.0005
+  y: -0.0002
+  z: 0.0074
+122linemod_ori:
+  x: -0.0013
+  y: -0.0006
+  z: 0.0153
+123linemod_ori:
+  x: -0.0015
+  y: -0.0003
+  z: 0.0064
+124linemod_ori:
+  x: 0.0026
+  y: -0.0029
+  z: 0.0412
+125linemod_ori:
+  x: 0.0005
+  y: -0.0011
+  z: 0.0115
+126linemod_ori:
+  x: -0.0034
+  y: 0.0004
+  z: -0.0244
+127linemod_ori:
+  x: 0.0006
+  y: -0.0013
+  z: 0.0214
+128linemod_ori:
+  x: 0.0009
+  y: -0.0022
+  z: 0.0252
+129linemod_ori:
+  x: 0.0053
+  y: 0.0007
+  z: 0.0499
+12linemod_ori:
+  x: -0.0009
+  y: -0.0012
+  z: 0.0185
+130linemod_ori:
+  x: 0.0038
+  y: 0.0017
+  z: 0.0236
+131linemod_ori:
+  x: 0.0066
+  y: -0.0029
+  z: 0.0636
+132linemod_ori:
+  x: 0.0053
+  y: -0.0028
+  z: 0.0554
+133linemod_ori:
+  x: 0.0025
+  y: -0.005
+  z: 0.0557
+134linemod_ori:
+  x: -0.0022
+  y: -0.0051
+  z: 0.0727
+135linemod_ori:
+  x: -0.0027
+  y: -0.0052
+  z: 0.0449
+136linemod_ori:
+  x: 0.0008
+  y: -0.0004
+  z: 0.0513
+137linemod_ori:
+  x: 0.0029
+  y: -0.007
+  z: 0.0377
+138linemod_ori:
+  x: 0.0031
+  y: -0.0023
+  z: 0.0371
+139linemod_ori:
+  x: -0.0002
+  y: -0.0003
+  z: 0.0352
+13linemod_ori:
+  x: 0.0006
+  y: -0.0003
+  z: 0.0272
+140linemod_ori:
+  x: 0.0028
+  y: -0.0033
+  z: 0.0399
+141linemod_ori:
+  x: -0.0009
+  y: 0.0001
+  z: 0.0212
+142linemod_ori:
+  x: 0.0007
+  y: -0.0014
+  z: 0.0337
+143linemod_ori:
+  x: 0.0017
+  y: 0.0004
+  z: 0.0213
+144linemod_ori:
+  x: 0.0001
+  y: 0.0017
+  z: 0.0094
+145linemod_ori:
+  x: -0.0007
+  y: 0.0022
+  z: 0.0101
+146linemod_ori:
+  x: -0.0006
+  y: 0.0012
+  z: 0.0076
+147linemod_ori:
+  x: 0.0014
+  y: -0.0005
+  z: 0.0253
+148linemod_ori:
+  x: 0.0006
+  y: 0.0001
+  z: 0.016
+149linemod_ori:
+  x: -0.001
+  y: 0.0032
+  z: 0.0068
+14linemod_ori:
+  x: -0.0018
+  y: -0.0008
+  z: 0.0177
+150linemod_ori:
+  x: 0.0003
+  y: 0.0054
+  z: -0.0041
+151linemod_ori:
+  x: 0.0049
+  y: 0.0042
+  z: 0.0497
+152linemod_ori:
+  x: -0.0017
+  y: 0.002
+  z: 0.0231
+153linemod_ori:
+  x: -0.0006
+  y: 0.0043
+  z: -0.0013
+154linemod_ori:
+  x: -0.0021
+  y: 0.0025
+  z: 0.0171
+155linemod_ori:
+  x: -0.0018
+  y: 0.0017
+  z: 0.0046
+156linemod_ori:
+  x: -0.0003
+  y: -0.0005
+  z: 0.0151
+157linemod_ori:
+  x: 0.0034
+  y: 0.0012
+  z: 0.0229
+158linemod_ori:
+  x: -0.0039
+  y: 0.0015
+  z: -0.0008
+159linemod_ori:
+  x: 0.0006
+  y: 0.0031
+  z: 0.0307
+15linemod_ori:
+  x: 0.0006
+  y: 0.003
+  z: 0.0212
+160linemod_ori:
+  x: -0.0011
+  y: 0.0001
+  z: 0.0069
+161linemod_ori:
+  x: -0.0005
+  y: 0.0001
+  z: 0.0069
+162linemod_ori:
+  x: 0.0007
+  y: -0.0007
+  z: 0.0131
+163linemod_ori:
+  x: 0.0006
+  y: 0.0013
+  z: 0.0141
+164linemod_ori:
+  x: -0.0004
+  y: -0.0015
+  z: 0.0213
+165linemod_ori:
+  x: 0.0018
+  y: 0.0014
+  z: 0.0231
+166linemod_ori:
+  x: 0.0017
+  y: 0.0007
+  z: 0.0237
+167linemod_ori:
+  x: -0.0006
+  y: 0.0005
+  z: 0.0156
+168linemod_ori:
+  x: 0.0046
+  y: -0.0027
+  z: 0.0272
+169linemod_ori:
+  x: -0.0018
+  y: -0.0006
+  z: 0.0126
+16linemod_ori:
+  x: 0.0005
+  y: 0.0001
+  z: 0.0111
+170linemod_ori:
+  x: -0.002
+  y: 0.0004
+  z: 0.0294
+171linemod_ori:
+  x: -0.0029
+  y: -0.0006
+  z: 0.0232
+172linemod_ori:
+  x: 0.0001
+  y: -0.0013
+  z: 0.0271
+173linemod_ori:
+  x: -0.0002
+  y: -0.0049
+  z: 0.0237
+174linemod_ori:
+  x: -0.0008
+  y: 0.0005
+  z: 0.0144
+175linemod_ori:
+  x: -0.0012
+  y: -0.0052
+  z: 0.0377
+176linemod_ori:
+  x: -0.002
+  y: 0.0035
+  z: 0.0242
+177linemod_ori:
+  x: -0.0017
+  y: -0.0003
+  z: 0.0207
+178linemod_ori:
+  x: -0.0012
+  y: -0.001
+  z: 0.0305
+179linemod_ori:
+  x: -0.0013
+  y: 0.0014
+  z: 0.006
+17linemod_ori:
+  x: -0.0004
+  y: 0.0008
+  z: 0.0303
+180linemod_ori:
+  x: -0.0022
+  y: 0.0002
+  z: 0.016
+181linemod_ori:
+  x: -0.0025
+  y: -0.0016
+  z: 0.0105
+182linemod_ori:
+  x: -0.0007
+  y: -0.0024
+  z: 0.0195
+183linemod_ori:
+  x: -0.0014
+  y: -0.0033
+  z: 0.0161
+18linemod_ori:
+  x: 0.001
+  y: -0.0024
+  z: 0.032
+19linemod_ori:
+  x: -0.003
+  y: -0.0042
+  z: -0.0162
+1linemod_ori:
+  x: 0.0017
+  y: -0.0025
+  z: 0.0355
+20linemod_ori:
+  x: -0.0006
+  y: -0.0018
+  z: 0.0091
+21linemod_ori:
+  x: 0.0006
+  y: -0.0005
+  z: 0.0327
+22linemod_ori:
+  x: -0.0032
+  y: -0.0039
+  z: 0.0656
+23linemod_ori:
+  x: -0.0012
+  y: -0.0018
+  z: 0.0325
+24linemod_ori:
+  x: -0.0029
+  y: 0.0005
+  z: 0.0317
+25linemod_ori:
+  x: 0.0008
+  y: -0.0027
+  z: 0.0183
+26linemod_ori:
+  x: -0.0009
+  y: -0.0007
+  z: 0.0134
+27linemod_ori:
+  x: -0.0009
+  y: -0.0019
+  z: 0.0324
+28linemod_ori:
+  x: -0.0001
+  y: 0.0031
+  z: 0.0039
+29linemod_ori:
+  x: 0.0021
+  y: 0.0023
+  z: -0.0076
+2linemod_ori:
+  x: 0.002
+  y: 0.001
+  z: 0.0338
+30linemod_ori:
+  x: 0.0061
+  y: 0.0037
+  z: 0.038
+31linemod_ori:
+  x: 0.0016
+  y: 0.0024
+  z: -0.0006
+32linemod_ori:
+  x: -0.0022
+  y: 0.0039
+  z: 0.0205
+33linemod_ori:
+  x: -0.0016
+  y: 0.001
+  z: 0.0067
+34linemod_ori:
+  x: -0.0005
+  y: 0.0019
+  z: 0.0262
+35linemod_ori:
+  x: -0.0002
+  y: 0.0003
+  z: 0.0119
+36linemod_ori:
+  x: -0.0048
+  y: 0.001
+  z: 0.0175
+37linemod_ori:
+  x: -0.0009
+  y: 0.0011
+  z: 0.0022
+38linemod_ori:
+  x: 0.001
+  y: 0.0041
+  z: 0.0282
+39linemod_ori:
+  x: 0.0067
+  y: 0.0115
+  z: -0.0766
+3linemod_ori:
+  x: 0.0008
+  y: -0.0024
+  z: 0.0285
+40linemod_ori:
+  x: 0.0041
+  y: -0.002
+  z: 0.0444
+41linemod_ori:
+  x: 0.0068
+  y: -0.0038
+  z: 0.0433
+42linemod_ori:
+  x: -0.0025
+  y: 0.0009
+  z: 0.0099
+43linemod_ori:
+  x: -0.004
+  y: 0.0055
+  z: -0.0079
+44linemod_ori:
+  x: -0.0019
+  y: 0.0008
+  z: 0.011
+45linemod_ori:
+  x: -0.0044
+  y: 0.0039
+  z: 0.0348
+46linemod_ori:
+  x: -0.0007
+  y: 0.0002
+  z: 0.0061
+47linemod_ori:
+  x: -0.0126
+  y: -0.0049
+  z: 0.0443
+48linemod_ori:
+  x: 0.0021
+  y: -0.0002
+  z: 0.0249
+49linemod_ori:
+  x: 0.0025
+  y: -0.0013
+  z: 0.02
+4linemod_ori:
+  x: -0.0004
+  y: 0.0005
+  z: 0.0422
+50linemod_ori:
+  x: 0.0025
+  y: 0.0001
+  z: -0.0288
+51linemod_ori:
+  x: 0.0008
+  y: -0.0008
+  z: -0.0021
+52linemod_ori:
+  x: 0.0055
+  y: -0.0018
+  z: 0.0405
+53linemod_ori:
+  x: 0.0005
+  y: -0.0007
+  z: 0.0151
+54linemod_ori:
+  x: -0.0006
+  y: -0.0012
+  z: -0.013
+55linemod_ori:
+  x: -0.0012
+  y: 0.0012
+  z: 0.0186
+56linemod_ori:
+  x: 0.0032
+  y: -0.0025
+  z: 0.0393
+57linemod_ori:
+  x: 0.0017
+  y: 0.0019
+  z: 0.027
+58linemod_ori:
+  x: 0.0003
+  y: -0.0001
+  z: 0.0032
+59linemod_ori:
+  x: -0.0006
+  y: 0.0002
+  z: 0.017
+5linemod_ori:
+  x: 0.0012
+  y: -0.0002
+  z: -0.0424
+60linemod_ori:
+  x: 0.0007
+  y: 0.0013
+  z: 0.0234
+61linemod_ori:
+  x: -0.0011
+  y: 0.0011
+  z: 0.0087
+62linemod_ori:
+  x: 0.0015
+  y: -0.002
+  z: 0.028
+63linemod_ori:
+  x: -0.0019
+  y: -0.0015
+  z: 0.0308
+64linemod_ori:
+  x: -0.002
+  y: -0.0015
+  z: 0.0216
+65linemod_ori:
+  x: 0.0014
+  y: -0.0014
+  z: -0.0012
+66linemod_ori:
+  x: 0.001
+  y: -0.0009
+  z: 0.0141
+67linemod_ori:
+  x: 0.0026
+  y: -0.0017
+  z: 0.0182
+68linemod_ori:
+  x: -0.0002
+  y: -0.0028
+  z: 0.0255
+69linemod_ori:
+  x: -0.0009
+  y: -0.0003
+  z: 0.021
+6linemod_ori:
+  x: 0.0001
+  y: -0.0044
+  z: 0.0432
+70linemod_ori:
+  x: 0.0012
+  y: 0.0009
+  z: 0.0194
+71linemod_ori:
+  x: -0.0005
+  y: -0.0007
+  z: 0.0065
+72linemod_ori:
+  x: 0.001
+  y: 0.0006
+  z: 0.0024
+73linemod_ori:
+  x: 0.0001
+  y: -0.0014
+  z: -0.0009
+74linemod_ori:
+  x: -0.0014
+  y: -0.0015
+  z: 0.0397
+75linemod_ori:
+  x: -0.001
+  y: -0.001
+  z: 0.015
+76linemod_ori:
+  x: -0.0002
+  y: 0.0
+  z: 0.0125
+77linemod_ori:
+  x: 0.0003
+  y: -0.0013
+  z: 0.0175
+78linemod_ori:
+  x: 0.001
+  y: -0.0017
+  z: 0.0087
+79linemod_ori:
+  x: -0.0017
+  y: 0.0011
+  z: 0.0171
+7linemod_ori:
+  x: -0.0004
+  y: -0.0009
+  z: 0.02
+80linemod_ori:
+  x: 0.0054
+  y: -0.0027
+  z: 0.0429
+81linemod_ori:
+  x: 0.0024
+  y: -0.0052
+  z: 0.0315
+82linemod_ori:
+  x: 0.0021
+  y: -0.0026
+  z: 0.0267
+83linemod_ori:
+  x: 0.0032
+  y: -0.0015
+  z: 0.0338
+84linemod_ori:
+  x: -0.0034
+  y: -0.0159
+  z: 0.0738
+85linemod_ori:
+  x: -0.0001
+  y: -0.0006
+  z: 0.0191
+86linemod_ori:
+  x: -0.0035
+  y: -0.001
+  z: 0.0305
+87linemod_ori:
+  x: 0.0027
+  y: 0.0037
+  z: 0.0356
+88linemod_ori:
+  x: 0.0017
+  y: -0.0019
+  z: 0.0233
+89linemod_ori:
+  x: -0.0049
+  y: -0.0021
+  z: 0.0294
+8linemod_ori:
+  x: 0.0012
+  y: -0.002
+  z: -0.0115
+90linemod_ori:
+  x: 0.0014
+  y: -0.0005
+  z: 0.0172
+91linemod_ori:
+  x: 0.0013
+  y: 0.0007
+  z: 0.0078
+92linemod_ori:
+  x: -0.0037
+  y: 0.0003
+  z: 0.0325
+93linemod_ori:
+  x: -0.0022
+  y: -0.0038
+  z: 0.0494
+94linemod_ori:
+  x: 0.0028
+  y: -0.0029
+  z: 0.0326
+95linemod_ori:
+  x: -0.0003
+  y: -0.0043
+  z: 0.0274
+96linemod_ori:
+  x: -0.0053
+  y: -0.0002
+  z: 0.0231
+97linemod_ori:
+  x: -0.0028
+  y: 0.0002
+  z: 0.0175
+98linemod_ori:
+  x: 0.0025
+  y: 0.0106
+  z: 0.0447
+99linemod_ori:
+  x: 0.0013
+  y: 0.0069
+  z: 0.0199
+9linemod_ori:
+  x: -0.0072
+  y: 0.0054
+  z: -0.0399
