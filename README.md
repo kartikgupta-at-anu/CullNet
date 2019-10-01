@@ -3,7 +3,7 @@ CullNet
 
 This code implements the following paper:
 
-["CullNet: Calibrated and Pose Aware Confidence Scores for Object Pose Estimation"](https://arxiv.org/abs/),
+["CullNet: Calibrated and Pose Aware Confidence Scores for Object Pose Estimation"](https://arxiv.org/pdf/1909.13476.pdf),
 Kartik Gupta, Lars Petersson, and Richard Hartley,
 ICCV Workshop on Recovering 6D Object Pose, 2019.
 
