@@ -2,8 +2,7 @@ import torch.nn as nn
 import math
 import cfgs.config_yolo6d as cfg
 import torch.utils.model_zoo as model_zoo
-
-from group_norm  import GroupNorm2d
+from gn_utils.group_norm import GroupNorm2d
 
 __all__ = ['ResNet', 'resnet18', 'resnet34', 'resnet50', 'resnet101',
            'resnet152']
@@ -111,7 +110,7 @@ class ResNet(nn.Module):
     def __init__(self, block, layers, num_classes=1000, group_norm=cfg.args.gn_channels):
         self.inplanes = 64
         super(ResNet, self).__init__()
-        self.conv1 = nn.Conv2d(3, 64, kernel_size=7, stride=2, padding=3,
+        self.conv1 = nn.Conv2d(4, 64, kernel_size=7, stride=2, padding=3,
                                bias=False)
         self.bn1 = norm2d(64, group_norm)
         self.relu = nn.ReLU(inplace=True)

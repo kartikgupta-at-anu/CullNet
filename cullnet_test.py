@@ -9,7 +9,7 @@ from random import randint
 from functools import partial
 from multiprocessing import Pool
 from torch.utils.data import DataLoader
-from yolo6d_darknet_variedpoints_v3 import Darknet
+from yolo6d_v3_darknet_def import Darknet
 import utils.yolo6d as yolo_utils
 import utils.network as net_utils
 from utils.timer import Timer
@@ -19,7 +19,7 @@ import cfgs.config_yolo6d as cfg
 
 
 if cfg.args.seg_cullnet:
-    from yolo6d_cullnet import Cullnet
+    from cullnet_def import Cullnet
 
 
 def mkdir(path, max_depth=3):

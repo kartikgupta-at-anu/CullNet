@@ -21,7 +21,7 @@ label_names = ('ape', 'benchvise', 'cam', 'can', 'cat', 'driller', 'duck', 'eggb
 data = {}
 
 for cls in label_names:
-    mesh_base = 'data/LINEMOD_original/models'
+    mesh_base = '../data/LINEMOD_original/models'
     mesh_name = os.path.join(mesh_base, cls + '.ply')
     mesh = trimesh.load(mesh_name)
     vertices = mesh.vertices
@@ -29,7 +29,7 @@ for cls in label_names:
     data[cls] = diam
     print cls, diam
 
-with open('cfgs/diameter_linemod.yml', 'w') as outfile:
+with open('../cfgs/diameter_linemod.yml', 'w') as outfile:
     yaml.dump(data, outfile, default_flow_style=False)
 
 

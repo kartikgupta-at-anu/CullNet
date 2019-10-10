@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import numpy as np
 import cv2, yaml, time, errno
 from torch.utils.data import DataLoader
-from yolo6d_darknet_variedpoints_v3 import Darknet
+from yolo6d_v3_darknet_def import Darknet
 from datasets.dataset import Dataset_class
 from tensorboardX import SummaryWriter
 import utils.yolo6d as yolo_utils

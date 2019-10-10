@@ -1,8 +1,7 @@
 import numpy as np
 import torch.nn as nn
 import torch.nn.functional as F
-import torchvision.models as models
-import resnet_gn, resnet_concat_gn
+from gn_utils import resnet_concat_gn, resnet_gn
 import cfgs.config_yolo6d as cfg
 from utils.yolo6d import threed_vertices, threed_correspondences, threed_corners
 import utils.network as net_utils

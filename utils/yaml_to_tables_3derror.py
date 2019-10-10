@@ -16,7 +16,7 @@ for cls in class_names:
     bias_data_median[cls] = {}
     bias_data_mode[cls] = {}
 
-    file_name = '3derror_logs/' + cls + '_3derror_logs.yml'
+    file_name = '../3derror_logs/' + cls + '_3derror_logs.yml'
     outfile = open(file_name, 'r')
     data = yaml.load(outfile)
     df = pd.DataFrame.from_dict(data, orient='index')
@@ -41,11 +41,11 @@ for cls in class_names:
     fit_y = stats.norm.pdf(y, np.mean(y), np.std(y))  #this is a fitting indeed
     fit_z = stats.norm.pdf(z, np.mean(z), np.std(z))  #this is a fitting indeed
 
-with open('cfgs/bias_linemod_mean.yml', 'w') as outfile:
+with open('../cfgs/bias_linemod_mean.yml', 'w') as outfile:
     yaml.dump(bias_data_mean, outfile, default_flow_style=False)
 
-with open('cfgs/bias_linemod_median.yml', 'w') as outfile:
+with open('../cfgs/bias_linemod_median.yml', 'w') as outfile:
     yaml.dump(bias_data_median, outfile, default_flow_style=False)
 
-with open('cfgs/bias_linemod_mode.yml', 'w') as outfile:
+with open('../cfgs/bias_linemod_mode.yml', 'w') as outfile:
     yaml.dump(bias_data_mode, outfile, default_flow_style=False)
