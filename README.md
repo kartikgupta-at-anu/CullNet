@@ -74,6 +74,7 @@ Backbone training (Yolov3-6D):
 class='cam'
 gpu_id=0
 CUDA_VISIBLE_DEVICES=$gpu_id python yolo6d_v3_train.py --lr 0.001 --start_epoch 0 --epochs 50 --exp_name yolo6d_v3_realsyn_$class  --bs 16 --torch_cudnn_benchmark --class_name $class --use_tensorboard  --datadirectory_name LINEMOD_singleobj_realsyn --diff_aspectratio --random_trans_scale
+CUDA_VISIBLE_DEVICES=$gpu_id python yolo6d_v3_train.py --lr 0.001 --epochs 100 --exp_name yolo6d_v3_realsyn_$class  --bs 16 --torch_cudnn_benchmark --class_name $class --use_tensorboard  --datadirectory_name LINEMOD_singleobj_realsyn --diff_aspectratio --random_trans_scale --second_training --min_train_loss --pick_one 
 ```
 CullNet training:
 ``` 
