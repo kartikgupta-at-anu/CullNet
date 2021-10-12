@@ -1,6 +1,6 @@
 torch
 torchvision
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 trimesh==2.30.9
 tensorboardX==1.2
 h5py==2.7.1
