@@ -32,9 +32,9 @@ pip install -r requirements.txt
     cd data
     ```
 
-2. Download the LINEMOD, which can be found at [here](https://1drv.ms/u/s!AtZjYZ01QjphgQ56t4wCharVSfxL).
+2. Download the LINEMOD, which can be found at [here](https://zjueducn-my.sharepoint.com/personal/pengsida_zju_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpengsida%5Fzju%5Fedu%5Fcn%2FDocuments%2Fpvnet%2FLINEMOD%2Etar%2Egz&parent=%2Fpersonal%2Fpengsida%5Fzju%5Fedu%5Fcn%2FDocuments%2Fpvnet).
 
-3. Download the LINEMOD_ORIG, which can be found at [here](./tools/download_linemod_orig.sh).
+3. Download the LINEMOD_ORIG, which can be found at [here](https://zjueducn-my.sharepoint.com/personal/pengsida_zju_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpengsida%5Fzju%5Fedu%5Fcn%2FDocuments%2Fpvnet%2FLINEMOD%5FORIG%2Etar%2Egz&parent=%2Fpersonal%2Fpengsida%5Fzju%5Fedu%5Fcn%2FDocuments%2Fpvnet).
 
 4. Generate synthetic images for each class using [pvnet-rendering](https://github.com/zju-3dv/pvnet-rendering) by the following command in the repo. Note, generated data in LINEMOD should be in data directory of this repo.
 
